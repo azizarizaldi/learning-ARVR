@@ -2,7 +2,7 @@
 Repo ini digunakan untuk belajar tentang ARVR dan dibuat untuk memenuhi UTS matakuliah Augmented dan Virtual Reality
 
 ## Screenshoot Aplikasi
-![ScreenShoot](assets/screenshoot.jpg)
+<img src="assets/screenshoot.jpg" alt="screenshoot Image" width="700" style="transform: rotate(-90deg);"/>
 
 ## Hallo semuanya 👋
 Perkenalkan saya: Aziz Arif Rizaldi ([@azizarizaldi](https://github.com/azizarizaldi/)). Disini saya Membuat tema AR sederhana yaitu __Manusia dan Ikan__.
