@@ -1,6 +1,9 @@
 # learning-ARVR
 Repo ini digunakan untuk belajar tentang ARVR dan dibuat untuk memenuhi UTS matakuliah Augmented dan Virtual Reality
 
+## Screenshoot Aplikasi
+![ScreenShoot](assets/screenshoot.jpg)
+
 ## Hallo semuanya 👋
 Perkenalkan saya: Aziz Arif Rizaldi ([@azizarizaldi](https://github.com/azizarizaldi/)). Disini saya Membuat tema AR sederhana yaitu __Manusia dan Ikan__.
 
@@ -17,5 +20,3 @@ Tujuan utama dari aplikasi ini adalah __tentunya untuk proses belajar saya sekal
 
 #### Marker Hiro & Kanji
 <img src="assets/paper.png" alt="Image Paper" width="500"/>
-
-### Tampilan Aplikasi
