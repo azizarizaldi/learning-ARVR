@@ -3,7 +3,7 @@ Repo ini digunakan untuk belajar tentang ARVR dan dibuat untuk memenuhi UTS mata
 
 ## Screenshoot Aplikasi
 <div align="center">
-    <img src="assets/screenshoot.jpg" alt="screenshoot Image" width="700" style="transform: rotate(-90deg);"
+    <img src="assets/screenshoot.jpg" alt="screenshoot Image" width="700" style="transform: rotate(-90deg);"/>
 </div>
 
 ## Hallo semuanya 👋
@@ -19,5 +19,5 @@ Tujuan utama dari aplikasi ini adalah __tentunya untuk proses belajar saya sekal
 
 #### Marker Hiro & Kanji
 <div align="center">
-<img src="assets/paper.png" alt="Image Paper" width="700"/>
+    <img src="assets/paper.png" alt="Image Paper" width="700"/>
 </div>
