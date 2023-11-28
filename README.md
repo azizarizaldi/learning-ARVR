@@ -15,8 +15,7 @@ Tujuan utama dari aplikasi ini adalah __tentunya untuk proses belajar saya sekal
 
 - Setelah aplikasi berjalan lancar, silahkan scan/arahkan kamera device pada marker dibawah ini untuk melihat 3D Model pada aplikasi
 
-#### Marker Hiro
-![Market Hiro](assets/hiro.png)
+#### Marker Hiro & Kanji
+![Image Paper](assets/paper.png)
 
-#### Marker Kanji
-![Market Hiro](assets/kanji.png)
+### Tampilan Aplikasi
