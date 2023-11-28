@@ -2,7 +2,9 @@
 Repo ini digunakan untuk belajar tentang ARVR dan dibuat untuk memenuhi UTS matakuliah Augmented dan Virtual Reality
 
 ## Screenshoot Aplikasi
-<img src="assets/screenshoot.jpg" alt="screenshoot Image" width="700" style="transform: rotate(-90deg);"/>
+<div align="center">
+    <img src="assets/screenshoot.jpg" alt="screenshoot Image" width="700" style="transform: rotate(-90deg);"
+</div>
 
 ## Hallo semuanya 👋
 Perkenalkan saya: Aziz Arif Rizaldi ([@azizarizaldi](https://github.com/azizarizaldi/)). Disini saya Membuat tema AR sederhana yaitu __Manusia dan Ikan__.
@@ -16,4 +18,6 @@ Tujuan utama dari aplikasi ini adalah __tentunya untuk proses belajar saya sekal
 - Setelah aplikasi berjalan lancar, silahkan scan/arahkan kamera device pada marker dibawah ini untuk melihat 3D Model pada aplikasi
 
 #### Marker Hiro & Kanji
+<div align="center">
 <img src="assets/paper.png" alt="Image Paper" width="700"/>
+</div>
